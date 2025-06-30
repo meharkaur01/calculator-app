@@ -4,14 +4,17 @@ This is a **very simple Python calculator** that performs basic arithmetic opera
 - Subtraction
 - Multiplication
 - Division
+
 It's a great beginner project to practice user input, conditionals, and basic math in Python.
 
 ## How to Run
 Make sure you have **Python 3** installed.
 Open a terminal, navigate to the folder, and run:
 python calculator.py
+
 Or if that doesn’t work:
 python3 calculator.py
+
 Then, follow the on-screen prompts to input two numbers and choose an operation.
 
 ## Features
